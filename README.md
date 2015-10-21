@@ -56,7 +56,7 @@
 - **Feel free to fork. I'll Appreciate it if you keep the Author & Github link footer**
 - Give it a **Star** if you like, fork or just clone to use ;)
 - If any problem or requirement, just open an issue here and I will help you.
-- 如果有需要，我可以更新一篇中文文档 ;)
+
 
 
 ## Document
